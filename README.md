@@ -13,7 +13,7 @@
   ![image](https://user-images.githubusercontent.com/111016584/184664733-ad163fbe-3c22-4462-a4e2-91455be0d752.png)
   Lưu ý hãy lưu file code và img cùng một file
   + cài thư viện Pygame theo hướng dẫn ở https://www.youtube.com/watch?v=EKjALzLLgVs
-  + Run
+  + Run (có video hướng dẫn trong file demo )
   
 
 
