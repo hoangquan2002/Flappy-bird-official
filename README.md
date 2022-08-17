@@ -1,3 +1,5 @@
+FLAPPY BIRD INVISIBLE
+__________________________
 I. Tiếng việt
 1. Giới thiệu
   + Đây là tựa game Flappy bird cải tiến được tham khảo từ cuốn sách https://inventwithpython.com/pygame/. 
