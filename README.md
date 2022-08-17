@@ -18,6 +18,9 @@ I. Tiếng việt
   Lưu ý hãy lưu file code và img cùng một file
   + cài thư viện Pygame (theo hướng dẫn ở https://www.youtube.com/watch?v=EKjALzLLgVs )
   + Run (video demo https://drive.google.com/file/d/1o56gGkHAfaNxWgTnMB-qRprqYorPHLAL/view?usp=sharing )
+4. Liên lạc
+  + Mọi thắc mắc xin liên hệ fb: https://www.facebook.com/quan.vuhoang.3910
+  + Emails: 20521799@gm.uit.edu.vn
 
 II. English
  1. Introduction
@@ -37,6 +40,9 @@ II. English
   Please save the code file and img file in the same file
   + install Pygame library (follow instructions at https://www.youtube.com/watch?v=EKjALzLLgVs )
   + Run (demo video https://drive.google.com/file/d/1o56gGkHAfaNxWgTnMB-qRprqYorPHLAL/view?usp=sharing )
+4. Contact
+  + For any questions, please contact fb: https://www.facebook.com/quan.vuhoang.3910
+  + Emails: 20521799@gm.uit.edu.vn
 
 
   
